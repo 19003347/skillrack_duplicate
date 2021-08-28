@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+}
+.color{
+    background-color: black;
+    /* margin-left: 5px; */
+    color: white;
+    display: flex;
+    height: 81px;
+}
+#icon{
+    margin: 14px;
+}
+.modify{
+    margin-top: 20px;
+    margin-left: 380px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fun{
+    color: coral;
+    font-size: 22px;
+    font-family: cursive;
+    font-weight: bold;
+    padding-left: 45px;
+}
+.forms{
+    padding: 70px;
+}
+.container{
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    margin-bottom: 35px;
+}
+.ficon{
+    padding: 10px;
+    text-align: center;
+    color:white;
+    background-color: dodgerblue;
+    min-width:30px;
+}
+.field{
+    width: 15%;
+}
+#hi{
+    padding: 9px 18px;
+    background-color: dodgerblue;
+    box-shadow:1px dodgerblue;
+    border: white 1px solid;
+    color: whitesmoke;
+    font-size: 16px;
+}
+.images{
+    margin-top:30px;
+    padding-left: 60px;
+}
+.dub{
+    padding-left: 10px;
+}
